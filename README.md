@@ -1,3 +1,9 @@
+
+I've been programming since I was 15 yo, and I've working daily with android development since 2018 on my own. On april 2020 
+I decided to learn Kotlinbecause it's the recommended language for android development since 2017.
+That wasn't enough and june 2020 I decided to restart learning android development but this time I'm following Google recommended course.
+Because of that I'm publishing several repositories working on it. This is one of those projects. Enjoy!
+
 # Application Architecture - The UI Layer - Guess It!
 This is the toy app for lesson 5 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
